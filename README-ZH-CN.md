@@ -26,7 +26,7 @@ wget https://raw.githubusercontent.com/betacat-ha/SynologyCloudflareDDNS/master/
 
 你可以将脚本放到任何路径。如果你将脚本放在其他路径或命名，请确保使用正确的路径。
 
-1. 赋予脚本执行权限：
+2. 赋予脚本执行权限：
 
 ```
 chmod +x /sbin/cloudflareddns.sh
